@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using A = System.Console;
 
-namespace ConsoleApp12
+namespace ConsoleApp1
 {
     class Shape
     {
