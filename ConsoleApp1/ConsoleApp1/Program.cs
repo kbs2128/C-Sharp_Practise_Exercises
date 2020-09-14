@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using A = System.Console;
 
 namespace Polymorphism
-namespace ConsoleApp1
 {
     class Shape
     {
